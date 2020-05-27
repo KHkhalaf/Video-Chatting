@@ -16,3 +16,6 @@ Open the sln in Visual Studio.
 Open `appsettings.json` and replace `ApiKey` and ApiSecret with the apiKey and apiSecret from you Vonage Video Api account.
 
 Open The project properties->Debug and ensure the AppUrl matches the `SAMPLE_SERVER_BASE_URL` in ClientApp/src/config.ts
+
+
+[alt text](https://github.com/KHkhalaf/Video-Chatting/blob/master/BasicVideoChatAngular/wwwroot/VideoView.png)
