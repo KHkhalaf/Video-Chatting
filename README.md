@@ -1,6 +1,6 @@
 # Basic Video Chat Angular
 
-This is a basic video chat example using .NET and Angular.
+This is a basic video chat example using .NET Core and Angular.
 
 ## Prerequisites
 
